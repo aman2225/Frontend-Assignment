@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+dist
+.env*
+tsconfig.tsbuildinfo
+.codex_pdf_tools
+assets-source
+lighthouse-propsoch.json
+lighthouse-local.json
+propsoch-live.html
+dev-server.log
+dev-server.err
+prod-server.log
+prod-server.err
