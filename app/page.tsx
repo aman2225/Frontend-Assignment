@@ -168,10 +168,16 @@ function Hero() {
       <div className="hero-scrim absolute inset-0" aria-hidden />
       <div className="relative mx-auto grid max-w-7xl gap-10 px-4 py-12 sm:px-6 lg:min-h-[calc(100svh-190px)] lg:grid-cols-[0.95fr_1.05fr] lg:items-center lg:px-8 lg:py-14">
         <div className="max-w-2xl">
-          <p className="mb-4 inline-flex items-center gap-2 rounded-md border border-ember/30 bg-white/80 px-3 py-2 text-sm font-semibold text-ember">
-            <ShieldCheck aria-hidden className="h-4 w-4" />
-            Buyer-first guidance for Bangalore homes
-          </p>
+          <div className="mb-4 flex items-center gap-3">
+            <p className="inline-flex items-center gap-2 rounded-md border border-ember/30 bg-white/80 px-3 py-2 text-sm font-semibold text-ember">
+              <ShieldCheck aria-hidden className="h-4 w-4" />
+              Buyer-first guidance for your dream home
+            </p>
+            <select className="rounded-md border border-ember/30 bg-white/80 px-3 py-2 text-sm font-semibold text-ink hover:border-ember/60" aria-label="Select city">
+              <option value="bangalore">Bangalore</option>
+              <option value="mumbai">Mumbai</option>
+            </select>
+          </div>
           <h1 className="max-w-3xl text-4xl font-black leading-[1.03] text-ink sm:text-5xl lg:text-6xl">
             Buy the right home with verified insight before every visit.
           </h1>
