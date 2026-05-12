@@ -6,7 +6,7 @@ A redesigned and optimized version of the Propsoch landing page built as part of
 
 ## Live Demo
 
-https://your-deployment-url.vercel.app
+https://frontend-assignment-seven-tan.vercel.app/
 
 ## GitHub Repository
 
