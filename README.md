@@ -10,7 +10,7 @@ https://frontend-assignment-seven-tan.vercel.app/
 
 ## GitHub Repository
 
-https://github.com/your-username/propsoch-landing-rebuild
+https://github.com/aman2225/Frontend-Assignment
 
 ---
 
