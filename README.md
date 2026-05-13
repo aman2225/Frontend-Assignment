@@ -26,16 +26,25 @@ In this rebuild, I focused on:
 - Enhancing accessibility with semantic HTML and better contrast
 - Simplifying call-to-actions to create a clearer user journey
 
+## Lighthouse Audit Comparison
+
+### Original Website
+![Original Website Lighthouse Audit](./public/images/original-lighthouse.png)
+
+### Rebuilt Website
+![Rebuilt Website Lighthouse Audit](./public/images/optimized-lighthouse.png)
+
+
 ---
 
-## Lighthouse Audit (Original Website)
+## Lighthouse Score Comparison
 
-| Category | Score |
-|---------|------:|
-| Performance | 54 |
-| Accessibility | 70 |
-| Best Practices | 57 |
-| SEO | 100 |
+| Category | Original Website | Rebuilt Website |
+|---------|----------------:|----------------:  |
+| Performance |    63       |      99           |
+| Accessibility |  71       |      96           |
+| Best Practices | 54       |      96           |
+| SEO |            100      |      100          |
 
 ---
 
@@ -109,14 +118,6 @@ propsoch-landing-rebuild/
 ├── tsconfig.json
 └── README.md
 ```
-## Performance Results
-
-| Category | Score |
-|---------|------:|
-| Performance | 92+ |
-| Accessibility | 98 |
-| Best Practices | 95 |
-| SEO | 100 |
 
 ### Key Performance Improvements
 
