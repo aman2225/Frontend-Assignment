@@ -121,10 +121,10 @@ propsoch-landing-rebuild/
 
 ### Key Performance Improvements
 
-- Largest Contentful Paint (LCP): **3.8s → 1.2s**
-- Time to Interactive (TTI): **20.6s → 2.1s**
-- Total Blocking Time (TBT): **6,890ms → 45ms**
-- Above-the-fold page size reduced by **71%**
+- First Contentful Paint (FCP): **1.7s -> 0.9s**
+- Largest Contentful Paint (LCP): **3.1s -> 1.6s**
+- Total Blocking Time (TBT): **3,560ms -> 90ms**
+- Speed Index: **2.7s -> 0.9s**
 
 ### Optimizations Applied
 
